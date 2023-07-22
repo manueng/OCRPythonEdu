@@ -1,0 +1,7 @@
+def checking_type_equality():
+    Point = namedtuple('Point', ['x', 'y']) 
+    p = Point(1, 2)
+    if type(p) == tuple:
+        print("it's a tuple")
+    else: 
+        print("it's not a tuple')

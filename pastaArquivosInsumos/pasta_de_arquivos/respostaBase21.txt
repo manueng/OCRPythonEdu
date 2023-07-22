@@ -1,0 +1,4 @@
+def for_key_in_dict_keys():
+    d = {"a": 1, "b": 2, "c": 3} 
+    for key in d.keys():
+        ...

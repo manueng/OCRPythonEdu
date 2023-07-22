@@ -1,0 +1,5 @@
+def range_len_pattern():
+    a = [1, 2, 3]
+    for i in range(len(a)):
+        v = a[i] 
+        ...

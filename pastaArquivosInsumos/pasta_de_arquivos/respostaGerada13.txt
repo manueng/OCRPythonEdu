@@ -1,0 +1,9 @@
+def always_using_conprehensions(a, b, n):
+"""matrix product of a, b of length n x n"""
+c = [l
+for i in range(n):
+for j in range(n):
+ij_entry = sun(a[n * i + k] * b[n * k + j] for k in range(n))
+c.append(ij_entry)
+
+0 return d

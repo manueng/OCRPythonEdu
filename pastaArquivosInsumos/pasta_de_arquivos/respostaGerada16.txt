@@ -1,0 +1,9 @@
+def equality_for_singletons(x):
+0 if x . None: it
+pass
+
+if x is True:
+pass
+
+if x is False:
+pass

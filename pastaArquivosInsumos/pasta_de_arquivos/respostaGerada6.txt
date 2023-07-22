@@ -1,0 +1,10 @@
+a" boro_oxcopt():
+will. Inn:
+try:
+
+5 l input('1nput a nunber: ")
+x - mm
+brook
+
+O - a oopu can't cTRL-c to exit
+print('No( a nulbcr, try again")

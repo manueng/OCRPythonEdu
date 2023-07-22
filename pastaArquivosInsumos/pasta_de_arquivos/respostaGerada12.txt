@@ -1,0 +1,7 @@
+def always_using_conprehensions(a, b, n)1
+"""matrix product of a, b of length n x n"""
+return [
+
+sum(a[n * i + k] * b[n * k + j] for k in r
+for i in range(n)
+for j in range(n)

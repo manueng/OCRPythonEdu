@@ -1,0 +1,8 @@
+def bare_except():
+    while True:
+        try :
+            s = input("Input a number: ")
+            x = int(s)
+            break
+        except:  # oops! Can't CTRL-C to exit
+            print("Not a number, try again")

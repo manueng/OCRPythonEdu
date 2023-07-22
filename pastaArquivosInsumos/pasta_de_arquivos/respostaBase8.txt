@@ -1,0 +1,6 @@
+def append(n, l=[]):
+    l.append(n)
+    return l
+
+l1 = append(0)  # [0]
+l2 = append(1)  # [0,1] oops 

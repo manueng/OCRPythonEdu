@@ -1,0 +1,5 @@
+def never_using_conprehensions() :l
+dict_comp = {i: i * i for i in range(1e)}
+list_comp = [x*x for x in range(1e)]
+set_comp = {1963 for i in range(19)}
+gen_comp = (2*x+5 for x in range(19))

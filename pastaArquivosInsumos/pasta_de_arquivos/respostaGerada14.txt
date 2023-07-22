@@ -1,0 +1,9 @@
+def checking_type_equality():
+Point = namedtup1e('Point', ['x', 'v'])
+p = Point(1, 2)
+
+ifq
+print("it's a tu le")
+
+else:
+print("it's not a tuple")

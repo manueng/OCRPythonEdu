@@ -1,0 +1,3 @@
+def caret_and_exponentiation(x, p):
+9 y = xlp k bitwise xor
+y = x ** p x exponentiation

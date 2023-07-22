@@ -1,0 +1,6 @@
+def checking_bool_or_len(x)1
+if bool(x):
+pass
+
+if len(x) l: 6:
+pass

@@ -1,0 +1,8 @@
+hef append(n, 1=None):
+if 1 is None:
+1 = I] k
+l.append(n)
+return 1
+
+11 = append(e) a [0]
+12 = append(1) x [1]

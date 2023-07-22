@@ -1,0 +1,9 @@
+def checking_type_equa11ty():
+Point = namedtup1e('Point', ['x', 'y'])
+p = Point(1, 2)
+
+if -(p, tuple): it Liskov :)
+
+print("it's a tuple")
+else:
+print("it's not a tuple")

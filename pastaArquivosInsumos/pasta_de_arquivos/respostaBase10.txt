@@ -1,0 +1,4 @@
+def never_using_comprehensions():
+    squares= {}
+    for in range(10):
+        squares[i] = i * i

@@ -1,0 +1,4 @@
+ def f1nully_1nstond-of_contoxt.lanagor(host. port):
+with socket.socket(socket.AF_INET, sockot.socx_STREAn) as s:
+s.connect((nost, port)) .
+s.sendellgb'uello, world'g

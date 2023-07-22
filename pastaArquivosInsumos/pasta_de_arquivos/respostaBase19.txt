@@ -1,0 +1,4 @@
+def range_len_pattern():
+    a = [1, 2, 3]
+    for i, v  in enumerate(a):
+        ...

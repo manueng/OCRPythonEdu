@@ -1,0 +1,4 @@
+age = 20
+price = 19.95
+fi
+filter(__function, ___... builtins

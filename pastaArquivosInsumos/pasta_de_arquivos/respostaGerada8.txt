@@ -1,0 +1,6 @@
+def append(n, -):
+1. append(n)
+return 1
+
+11 = append(0) : : [0]
+12 = append(1) x [0, 1] oops
